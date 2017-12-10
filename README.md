@@ -7,6 +7,8 @@
 ```
 - IoC(Inversion of Control) [控制反转](http://www.cnblogs.com/DebugLZQ/archive/2013/06/05/3107957.html)
 - DI(Dependency Injection) [依赖注入](http://www.cnblogs.com/DebugLZQ/archive/2013/06/05/3107957.html)
+- AOP(Aspect Oriented Programming) [面向切面编程](http://www.cnblogs.com/xrq730/p/4919025.html)
+- OOP(Object Oriented Programming) [面向对象编程](https://baike.baidu.com/item/OOP/1152915?fr=aladdin)
 
 
 
