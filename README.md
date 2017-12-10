@@ -4,7 +4,7 @@
     我会把我遇到的各种java相关的名词首写字母缩写放到整理到这里来。
     这个文本只放缩写和他的中文意思，详情以及网上一些讲解比较好的文章的链接我会放到【详情】那个文本里面。
 ``` 
-#####  [详情.md](Initialism/详情.md)
+#####  [详情.md](https://github.com/gosin1994/Initialism/blob/master/%E8%AF%A6%E6%83%85.md)
 
 
 - IoC(Inversion of Control) [控制反转](http://www.cnblogs.com/DebugLZQ/archive/2013/06/05/3107957.html)
